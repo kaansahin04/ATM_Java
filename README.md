@@ -1,4 +1,4 @@
-<h2 align="center">ATM_Java</h2>
+<h2 align="center">ATM Yönetim Sistemi</h2>
 
 ## Açıklama
 Java GUI ile yapılmış, hesap açıp Para Yatırma, Para Çekme, Bakiye Görüntüleme, Hesap Hareketlerini İnceleme işlemlerinin bulunduğu ATM Yönetim Sistemi.
